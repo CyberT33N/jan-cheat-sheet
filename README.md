@@ -23,6 +23,8 @@ ___
 <br><br>
 
 # Import Model
+- https://jan.ai/docs/models/manage-models
+- Jan offers flexible options for managing local models through its Cortex engine. Currently, Jan only supports GGUF format models.
 
 ## Huggingface
 Settings > My Models > Enter Huggingface link and download
